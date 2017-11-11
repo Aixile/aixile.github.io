@@ -4,7 +4,7 @@ title: About Yanghua Jin
 description: Personal Profile.
 ---
 I am a senior undergraduate student at School of Computer Science, Fudan University.   
-My research interest focuses on deep generative models, especially for image generation and image transformation.
+My research interest focuses on deep generative models, especially on the image generation and image transformation with deep learning.
 
 *Email: yanghuajin94 [at] gmail [dot] com*
 ## Publications / Manuscripts

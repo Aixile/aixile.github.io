@@ -1,11 +1,11 @@
 # Site settings
 title: Yanghua Jin
 description: "About Yanghua Jin."
-url: "http://aixile.github.io/"
+url: "http://aixile.github.io"
 author:
   name: "Yanghua Jin"
   email: "jinyh13@fudan.edu.cn"
-  url: "http://aixile.github.io/"
+  url: "http://aixile.github.io"
 
 # Build settings
 baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
