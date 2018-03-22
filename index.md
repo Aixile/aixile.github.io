@@ -16,6 +16,9 @@ My research interest focuses on deep generative models, especially on the image 
 **Deep Style Picker for Line Drawing Colorization**  
 Working Paper 
 
+## Invited Talk
+**Exploring the Anime Characters Creation with Generative Adversarial Networks**  [Deep Learning: Theory, Algorithms, and Applications](http://www.ms.k.u-tokyo.ac.jp/TDLW2018/), Tokyo, Japan, Mar 19-22, 2018
+
 ## Timeline
 **Fudan University**, *B.S. with hornors in Computer Science*, Shanghai, China    
 2013 - 2018   
