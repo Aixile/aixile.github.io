@@ -11,7 +11,7 @@ My research interest focuses on deep generative models, especially on the image 
 ## Timeline
 **[Crypko.AI](http://crypko.ai/)**, Founder   
 2018.5 -   
-Building next-generation with cryptocollectible game with GAN and Ethereum.   
+Building next-generation cryptocollectible game with GAN and Ethereum.   
 Director, Machine Learning Development, Backend Development
 
 **Fudan University**, *B.S. with honors in Computer Science*, Shanghai, China    
