@@ -3,16 +3,17 @@ layout: page
 title: About Yanghua Jin
 description: Personal Profile.
 ---
-I am a senior undergraduate student at School of Computer Science, Fudan University.
-My research interest focuses on deep generative models, especially on the image generation and image transformation with deep learning.
+Yanghua Jin is a deep learning engineer at [Preferred Networks](https://www.preferred-networks.jp), Tokyo, Japan. Before that, he received his bachelar's degree from Fudan University, Shanghai, China.
+His research interest focuses on applying generative models to Japanese anime.
 
-*Email: yanghuajin94 [at] gmail [dot] com*
+*Email: jinyh [at] preferred [dot] jp*
 
 ## Timeline
 **[Crypko.AI](http://crypko.ai/)**, Founder   
-2018.5 -   
+2018.5 - 2018.10
 Building next-generation cryptocollectible game with GAN and Ethereum.   
 Director, Machine Learning Development, Backend Development
+Currently, this project belongs to Preferred Networks.
 
 **Fudan University**, *B.S. with honors in Computer Science*, Shanghai, China    
 2013 - 2018   
@@ -34,6 +35,7 @@ system for Mircosoft Outlook, and built several supervised and unsupervised appl
 ## Invited Talk
 **Exploring the Anime Characters Creation with Generative Adversarial Networks**  
 [Deep Learning: Theory, Algorithms, and Applications](http://www.ms.k.u-tokyo.ac.jp/TDLW2018/), Tokyo, Japan, Mar 19-22, 2018
+Video is available on (YouTube)[https://www.youtube.com/watch?v=UDT_2lHv8o8]
 
 ## Publications / Manuscripts
 **Towards the Automatic Anime Characters Creation with Generative Adversarial Networks**    
