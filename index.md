@@ -35,7 +35,7 @@ system for Mircosoft Outlook, and built several supervised and unsupervised appl
 ## Invited Talk
 **Exploring the Anime Characters Creation with Generative Adversarial Networks**  
 [Deep Learning: Theory, Algorithms, and Applications](http://www.ms.k.u-tokyo.ac.jp/TDLW2018/), Tokyo, Japan, Mar 19-22, 2018
-Video is available on (YouTube)[https://www.youtube.com/watch?v=UDT_2lHv8o8]
+Video is available on [YouTube](https://www.youtube.com/watch?v=UDT_2lHv8o8)
 
 ## Publications / Manuscripts
 **Towards the Automatic Anime Characters Creation with Generative Adversarial Networks**    
