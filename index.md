@@ -16,7 +16,7 @@ Video is available on [YouTube](https://www.youtube.com/watch?v=UDT_2lHv8o8)
 
 **Create Anime Characters using AI**  
 [AI for Manga & Anime](https://research.mangaki.fr/2018/07/15/ai-for-manga-and-anime/), Anime Expo 2018, Los Angeles, 2018  
-[[slides]](https://drive.google.com/file/d/145_X2q0dvZ5v97SeMmXLSsX-P-7mYlac/view?usp=sharing)
+[[slides](https://drive.google.com/file/d/145_X2q0dvZ5v97SeMmXLSsX-P-7mYlac/view?usp=sharing)]
 
 
 ## Publications / Manuscripts 
@@ -27,7 +27,7 @@ Kaiwen Zhou, *Yanghua Jin*, Qinghua Ding, James Cheng
 **Fast Soft Color Segmentation**  
 Computer Vision and Pattern Recognition (**CVPR**) 2020  
 Naofumi Akimoto, Huachun Zhu, *Yanghua Jin*, Yoshimitsu Aoki  
-[[paper]](https://arxiv.org/abs/2004.08096)[[github]](https://github.com/pfnet-research/FSCS)  
+[[paper](https://arxiv.org/abs/2004.08096)][[github](https://github.com/pfnet-research/FSCS)]
 
 **Towards the Automatic Anime Characters Creation with Generative Adversarial Networks**    
 Advances in Neural Information Processing Systems (**NIPS**) 2017 Workshop on Machine Learning for Creativity and Design   
