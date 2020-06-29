@@ -23,6 +23,7 @@ Video is available on [YouTube](https://www.youtube.com/watch?v=UDT_2lHv8o8)
 **Amortized Nesterov's Momentum: Robust and Lightweight Momentum for Deep Learning**  
 Uncertainty in Artificial Intelligence (**UAI**) 2020  
 Kaiwen Zhou, *Yanghua Jin*, Qinghua Ding, James Cheng  
+[[paper](http://www.auai.org/uai2020/proceedings/108_main_paper.pdf)][[supp](http://www.auai.org/uai2020/proceedings/108_supp.pdf)][[code](https://drive.google.com/file/d/1S-epbDEOHIMwkdkuRolhvDWGA6QjhvaV/view?usp=sharing)]
 
 **Fast Soft Color Segmentation**  
 Computer Vision and Pattern Recognition (**CVPR**) 2020  
