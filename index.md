@@ -39,6 +39,7 @@ Advances in Neural Information Processing Systems (**NIPS**) 2017 Workshop on Ma
 
 ## Timeline
 **[Preferred Networks](https://www.preferred-networks.jp/en)**, Tokyo, Japan   
+2018.11 - present
 Deep Learning R&D.
 
 **[Crypko.AI](http://crypko.ai/)**, Founder   
