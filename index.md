@@ -31,7 +31,7 @@ Naofumi Akimoto, Huachun Zhu, *Yanghua Jin*, Yoshimitsu Aoki
 [[paper](https://arxiv.org/abs/2004.08096)][[github](https://github.com/pfnet-research/FSCS)]
 
 **Towards the Automatic Anime Characters Creation with Generative Adversarial Networks**    
-Advances in Neural Information Processing Systems (**NIPS**) 2017 Workshop on Machine Learning for Creativity and Design   
+Advances in Neural Information Processing Systems (**NIPS**) 2017 Workshop on Machine Learning for Creativity and Design (**spotlight**) 
 *Yanghua Jin*, Jiakai Zhang, Minjun Li, Yingtao Tian, Huachun Zhu   
 [[paper](https://arxiv.org/abs/1708.05509)][[web site](http://make.girls.moe/)]
 
