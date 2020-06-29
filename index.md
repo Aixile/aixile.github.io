@@ -8,16 +8,6 @@ My research interest focuses on applying generative models to Japanese anime.
 
 *Email: jinyh [at] preferred [dot] jp*
 
-## Invited Talk
-**Exploring the Anime Characters Creation with Generative Adversarial Networks**  
-[Deep Learning: Theory, Algorithms, and Applications](http://www.ms.k.u-tokyo.ac.jp/TDLW2018/), RikenAIP, Tokyo, Mar 19-22, 2018  
-Video is available on [YouTube](https://www.youtube.com/watch?v=UDT_2lHv8o8)
- 
-
-**Create Anime Characters using AI**  
-[AI for Manga & Anime](https://research.mangaki.fr/2018/07/15/ai-for-manga-and-anime/), Anime Expo 2018, Los Angeles, 2018  
-[[slides](https://drive.google.com/file/d/145_X2q0dvZ5v97SeMmXLSsX-P-7mYlac/view?usp=sharing)]
-
 
 ## Publications / Manuscripts 
 **Amortized Nesterov's Momentum: Robust and Lightweight Momentum for Deep Learning**  
@@ -34,6 +24,17 @@ Naofumi Akimoto, Huachun Zhu, *Yanghua Jin*, Yoshimitsu Aoki
 Advances in Neural Information Processing Systems (**NIPS**) 2017 Workshop on Machine Learning for Creativity and Design (**spotlight**) 
 *Yanghua Jin*, Jiakai Zhang, Minjun Li, Yingtao Tian, Huachun Zhu   
 [[paper](https://arxiv.org/abs/1708.05509)][[web site](http://make.girls.moe/)]
+
+
+## Invited Talk
+**Exploring the Anime Characters Creation with Generative Adversarial Networks**  
+[Deep Learning: Theory, Algorithms, and Applications](http://www.ms.k.u-tokyo.ac.jp/TDLW2018/), RikenAIP, Tokyo, Mar 19-22, 2018  
+Video is available on [YouTube](https://www.youtube.com/watch?v=UDT_2lHv8o8)
+ 
+
+**Create Anime Characters using AI**  
+[AI for Manga & Anime](https://research.mangaki.fr/2018/07/15/ai-for-manga-and-anime/), Anime Expo 2018, Los Angeles, 2018  
+[[slides](https://drive.google.com/file/d/145_X2q0dvZ5v97SeMmXLSsX-P-7mYlac/view?usp=sharing)]
 
 
 
