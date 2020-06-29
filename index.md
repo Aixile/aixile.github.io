@@ -3,8 +3,8 @@ layout: page
 title: About Yanghua Jin
 description: Personal Profile.
 ---
-Yanghua Jin is a deep learning engineer at [Preferred Networks](https://www.preferred-networks.jp), Tokyo, Japan. Before that, he received his bachelar's degree from Fudan University, Shanghai, China.
-His research interest focuses on applying generative models to Japanese anime.
+I am a research engineer at [Preferred Networks](https://www.preferred-networks.jp), Tokyo, Japan. Before that, I received bachelar's degree from Fudan University in 2018.
+My research interest focuses on applying generative models to Japanese anime.
 
 *Email: jinyh [at] preferred [dot] jp*
 
