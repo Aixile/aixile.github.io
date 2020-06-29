@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Yanghua Jin 金陽華
+title: Yanghua Jin
 description: Personal Profile.
 ---
 I am a research engineer at [Preferred Networks](https://www.preferred-networks.jp), Tokyo, Japan. Before that, I received bachelar's degree from Fudan University in 2018.

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Yanghua Jin</title>
+ <title>Yanghua Jin 金陽華</title>
  <link href="http://aixile.github.io/atom.xml" rel="self"/>
  <id>http://aixile.github.io</id>
- <updated>2020-06-29T15:20:22+09:00</updated>
+ <updated>2020-06-29T15:25:17+09:00</updated>
  <author>
    <name>Yanghua Jin</name>
    <uri>http://aixile.github.io</uri>
-   <email>jinyh13@fudan.edu.cn</email>
+   <email>jinyh@preferred.jp</email>
  </author>
 
  
