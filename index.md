@@ -39,11 +39,11 @@ Advances in Neural Information Processing Systems (**NIPS**) 2017 Workshop on Ma
 
 ## Timeline
 **[Preferred Networks](https://www.preferred-networks.jp/en)**, Tokyo, Japan   
-2018.11 - present
+2018.11 - present   
 Deep Learning R&D.
 
 **[Crypko.AI](http://crypko.ai/)**, Founder   
-2018.5 - 2018.10
+2018.5 - 2018.10   
 Building next-generation cryptocollectible game with GAN and Ethereum.   
 Director, Machine Learning Development, Backend Development
 Currently, this project belongs to Preferred Networks.
