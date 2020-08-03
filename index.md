@@ -9,7 +9,7 @@ My research interest focuses on applying generative models to Japanese anime.
 *Email: jinyh [at] preferred [dot] jp*
 
 
-## Publications / Manuscripts 
+## Publications  
 **Amortized Nesterov's Momentum: Robust and Lightweight Momentum for Deep Learning**  
 Uncertainty in Artificial Intelligence (**UAI**) 2020  
 Kaiwen Zhou, *Yanghua Jin*, Qinghua Ding, James Cheng  
@@ -26,9 +26,14 @@ Advances in Neural Information Processing Systems (**NIPS**) 2017 Workshop on Ma
 [[paper](https://arxiv.org/abs/1708.05509)][[web site](http://make.girls.moe/)]
 
 
-## Invited Talk
+## Talks
+**Crypko: a new workflow for anime character creation**   
+[12th CODH Seminar (Online)
+AI for Culture: From Japanese Art to Anime](http://codh.rois.ac.jp/seminar/ai-for-culture-20200805/), [NII ROIS-DS](http://codh.rois.ac.jp/), Aug 05, 2020
+
+
 **Exploring the Anime Characters Creation with Generative Adversarial Networks**  
-[Deep Learning: Theory, Algorithms, and Applications](http://www.ms.k.u-tokyo.ac.jp/TDLW2018/), RikenAIP, Tokyo, Mar 19-22, 2018  
+[Deep Learning: Theory, Algorithms, and Applications](http://www.ms.k.u-tokyo.ac.jp/TDLW2018/), [RikenAIP](https://aip.riken.jp/?lang=ja), Tokyo, Mar 19-22, 2018  
 Video is available on [YouTube](https://www.youtube.com/watch?v=UDT_2lHv8o8)
  
 
@@ -44,20 +49,11 @@ Video is available on [YouTube](https://www.youtube.com/watch?v=UDT_2lHv8o8)
 Deep Learning R&D.
 
 **[Crypko.AI](http://crypko.ai/)**, Founder   
-2018.5 - 2018.10   
+2017.12 - 2018.10   
 Building next-generation cryptocollectible game with GAN and Ethereum.   
 Director, Machine Learning Development, Backend Development
 Currently, this project belongs to Preferred Networks.
 
 **Fudan University**, *B.S. with honors in Computer Science*, Shanghai, China    
 2013 - 2018   
-
-**Kyoto University**, *General Exchange Program*, Kyoto, Japan   
-2016.9 - 2017.9    
-
-**[Preferred Networks](https://www.preferred-networks.jp/en)**, Tokyo, Japan   
-2017.3 - 2017.8   
-
-**Morgan Stanley**, Technology Summer Analyst Program, Shanghai, China    
-2016.7 - 2016.9    
 
