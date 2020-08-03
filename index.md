@@ -27,7 +27,7 @@ Advances in Neural Information Processing Systems (**NIPS**) 2017 Workshop on Ma
 
 
 ## Talks
-**Crypko: a new workflow for anime character creation**   
+**Crypko: A New Workflow for Anime Character Creation**   
 [12th CODH Seminar (Online)
 AI for Culture: From Japanese Art to Anime](http://codh.rois.ac.jp/seminar/ai-for-culture-20200805/), [NII ROIS-DS](http://codh.rois.ac.jp/), Aug 05, 2020
 
