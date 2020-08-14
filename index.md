@@ -47,8 +47,8 @@ AI for Culture: From Japanese Art to Anime](http://codh.rois.ac.jp/seminar/ai-fo
 
 ## Timeline
 **[Preferred Networks](https://www.preferred-networks.jp/en)**, Tokyo, Japan   
-2018.11 - present
-Deep Learning R&D, working on Crypko platform.
+2018.11 - present   
+Deep Learning R&D, working on the Crypko platform.
 
 **[Crypko.AI](http://crypko.ai/)**, Founder   
 2017.12 - 2018.10   
