@@ -29,12 +29,14 @@ Advances in Neural Information Processing Systems (**NIPS**) 2017 Workshop on Ma
 ## Talks
 **Crypko: A New Workflow for Anime Character Creation**   
 [12th CODH Seminar (Online)
-AI for Culture: From Japanese Art to Anime](http://codh.rois.ac.jp/seminar/ai-for-culture-20200805/), [NII ROIS-DS](http://codh.rois.ac.jp/), Aug 05, 2020
+AI for Culture: From Japanese Art to Anime](http://codh.rois.ac.jp/seminar/ai-for-culture-20200805/), [NII ROIS-DS](http://codh.rois.ac.jp/), Aug 05, 2020    
+[[YouTube](https://www.youtube.com/watch?v=DzSivYv75mc&feature=youtu.be)]
+[[slides](https://codh.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=400&item_no=1&page_id=30&block_id=41)]
 
 
 **Exploring the Anime Characters Creation with Generative Adversarial Networks**  
 [Deep Learning: Theory, Algorithms, and Applications](http://www.ms.k.u-tokyo.ac.jp/TDLW2018/), [RikenAIP](https://aip.riken.jp/?lang=ja), Tokyo, Mar 19-22, 2018  
-Video is available on [YouTube](https://www.youtube.com/watch?v=UDT_2lHv8o8)
+ [[YouTube](https://www.youtube.com/watch?v=UDT_2lHv8o8)]
  
 
 **Create Anime Characters using AI**  
@@ -45,14 +47,14 @@ Video is available on [YouTube](https://www.youtube.com/watch?v=UDT_2lHv8o8)
 
 ## Timeline
 **[Preferred Networks](https://www.preferred-networks.jp/en)**, Tokyo, Japan   
-2018.11 - present   
-Deep Learning R&D.
+2018.11 - present
+Deep Learning R&D, working on Crypko platform.
 
 **[Crypko.AI](http://crypko.ai/)**, Founder   
 2017.12 - 2018.10   
 Building next-generation cryptocollectible game with GAN and Ethereum.   
 Director, Machine Learning Development, Backend Development
-Currently, this project belongs to Preferred Networks.
+Currently, this project is transferred to Preferred Networks.
 
 **Fudan University**, *B.S. with honors in Computer Science*, Shanghai, China    
 2013 - 2018   
