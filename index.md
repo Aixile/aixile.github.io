@@ -12,22 +12,22 @@ My research interest focuses on applying generative models to Japanese anime.
 ## Academic Publications  
 **Surrogate Gradient Field for Latent Space Manipulation**  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2021  
-Minjun Li*, *Yanghua Jin**, Huachun Zhu (* Equal Contribution)
+Minjun Li\*, **Yanghua Jin\***, Huachun Zhu (* Equal Contribution)
 
 
 **Amortized Nesterov's Momentum: Robust and Lightweight Momentum for Deep Learning**  
 The Conference on Uncertainty in Artificial Intelligence (**UAI**) 2020  
-Kaiwen Zhou, *Yanghua Jin*, Qinghua Ding, James Cheng  
+Kaiwen Zhou, **Yanghua Jin**, Qinghua Ding, James Cheng  
 [[paper](http://www.auai.org/uai2020/proceedings/108_main_paper.pdf)][[supp](http://www.auai.org/uai2020/proceedings/108_supp.pdf)][[code](https://drive.google.com/file/d/1S-epbDEOHIMwkdkuRolhvDWGA6QjhvaV/view?usp=sharing)]
 
 **Fast Soft Color Segmentation**  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2020  
-Naofumi Akimoto, Huachun Zhu, *Yanghua Jin*, Yoshimitsu Aoki  
+Naofumi Akimoto, Huachun Zhu, **Yanghua Jin**, Yoshimitsu Aoki  
 [[paper](https://arxiv.org/abs/2004.08096)][[github](https://github.com/pfnet-research/FSCS)]
 
 **Towards the Automatic Anime Characters Creation with Generative Adversarial Networks**    
 Advances in Neural Information Processing Systems (**NIPS**) 2017 Workshop on Machine Learning for Creativity and Design (**spotlight**) 
-*Yanghua Jin*, Jiakai Zhang, Minjun Li, Yingtao Tian, Huachun Zhu   
+**Yanghua Jin**, Jiakai Zhang, Minjun Li, Yingtao Tian, Huachun Zhu   
 [[paper](https://arxiv.org/abs/1708.05509)][[web site](http://make.girls.moe/)]
 
 
