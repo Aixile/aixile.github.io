@@ -9,14 +9,19 @@ My research interest focuses on applying generative models to Japanese anime.
 *Email: jinyh [at] preferred [dot] jp*
 
 
-## Publications  
+## Academic Publications  
+**Surrogate Gradient Field for Latent Space Manipulation**  
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2021  
+Minjun Li*, *Yanghua Jin**, Huachun Zhu (* Equal Contribution)
+
+
 **Amortized Nesterov's Momentum: Robust and Lightweight Momentum for Deep Learning**  
-Uncertainty in Artificial Intelligence (**UAI**) 2020  
+The Conference on Uncertainty in Artificial Intelligence (**UAI**) 2020  
 Kaiwen Zhou, *Yanghua Jin*, Qinghua Ding, James Cheng  
 [[paper](http://www.auai.org/uai2020/proceedings/108_main_paper.pdf)][[supp](http://www.auai.org/uai2020/proceedings/108_supp.pdf)][[code](https://drive.google.com/file/d/1S-epbDEOHIMwkdkuRolhvDWGA6QjhvaV/view?usp=sharing)]
 
 **Fast Soft Color Segmentation**  
-Computer Vision and Pattern Recognition (**CVPR**) 2020  
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2020  
 Naofumi Akimoto, Huachun Zhu, *Yanghua Jin*, Yoshimitsu Aoki  
 [[paper](https://arxiv.org/abs/2004.08096)][[github](https://github.com/pfnet-research/FSCS)]
 
