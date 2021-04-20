@@ -12,7 +12,8 @@ My research interest focuses on applying generative models to Japanese anime.
 ## Academic Publications  
 **Surrogate Gradient Field for Latent Space Manipulation**  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2021  
-Minjun Li\*, **Yanghua Jin\***, Huachun Zhu (* Equal Contribution)
+Minjun Li\*, **Yanghua Jin\***, Huachun Zhu (* Equal Contribution)    
+[[paper](https://arxiv.org/abs/2104.09065)]
 
 
 **Amortized Nesterov's Momentum: Robust and Lightweight Momentum for Deep Learning**  
