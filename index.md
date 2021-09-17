@@ -3,10 +3,12 @@ layout: page
 title: Yanghua Jin
 description: Personal Profile.
 ---
-I am a research engineer at [Preferred Networks](https://www.preferred-networks.jp), Tokyo, Japan. Before that, I received bachelar's degree from Fudan University in 2018.
-My research interest focuses on applying generative models to Japanese anime.
+I am a research engineer at [Preferred Networks](https://www.preferred-networks.jp), Tokyo, Japan. 
+I have been engaged in researching the power of AI technologies in the area of Japanese Anime/Game for over 5 years.
+My long-term goal is to revolutionize the Japanese Anime/Game industry.
+Meanwhile, as an entrepreneur, I founded [Crypko.AI](http://crypko.ai/) in 2017, which was acquired by Preferred Networks in late 2018.
 
-*Email: jinyh [at] preferred [dot] jp*
+*Email: yanghuajin94 [at] gmail [dot] com*
 
 
 ## Academic Publications  
@@ -33,7 +35,7 @@ Advances in Neural Information Processing Systems (**NIPS**) 2017 Workshop on Ma
 
 
 ## Talks
-**Crypko: A New Workflow for Anime Character Creation**   
+**Crypko: A New Workflow for Anime Character Creation**
 [12th CODH Seminar (Online)
 AI for Culture: From Japanese Art to Anime](http://codh.rois.ac.jp/seminar/ai-for-culture-20200805/), [NII ROIS-DS](http://codh.rois.ac.jp/), Aug 05, 2020    
 [[YouTube](https://www.youtube.com/watch?v=DzSivYv75mc&feature=youtu.be)]
@@ -54,14 +56,13 @@ AI for Culture: From Japanese Art to Anime](http://codh.rois.ac.jp/seminar/ai-fo
 ## Timeline
 **[Preferred Networks](https://www.preferred-networks.jp/en)**, Tokyo, Japan   
 2018.11 - present   
-Deep Learning R&D, working on the Crypko platform.
+Deep Learning R&D in the area of Japanese anime.
 
 **[Crypko.AI](http://crypko.ai/)**, Founder   
 2017.12 - 2018.10   
-Building next-generation cryptocollectible game with GAN and Ethereum.   
+Building next-generation cryptocollectible game with GAN and Ethereum.
 Director, Machine Learning Development, Backend Development
-Currently, this project is transferred to Preferred Networks.
+Currently, this project is acquired by Preferred Networks.
 
 **Fudan University**, *B.S. with honors in Computer Science*, Shanghai, China    
 2013 - 2018   
-
