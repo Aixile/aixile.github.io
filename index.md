@@ -3,8 +3,8 @@ layout: page
 title: Yanghua Jin
 description: Personal Profile.
 ---
-
-I have been engaged in researching the power of AI technologies in the area of Japanese Anime/Game for over 5 years.
+I'm a researcher at [Spellbrush](https://sizigistudios.com/), building [niji・journey](https://nijijourney.com/en/).
+I have been engaged in researching the power of AI technologies in the area of Japanese Anime/Game for over 6 years.
 My long-term goal is to revolutionize the Japanese Anime/Game industry.
 Meanwhile, as an entrepreneur, I founded [Crypko.AI](http://crypko.ai/) in 2017, which was acquired by Preferred Networks in late 2018.
 
@@ -35,6 +35,11 @@ Advances in Neural Information Processing Systems (**NIPS**) 2017 Workshop on Ma
 
 
 ## Talks
+**AI for Anime in the Diffusion Era**   
+[Workshop on Machine Learning for Creativity and Design](http://www.ms.k.u-tokyo.ac.jp/TDLW2018/), [Neurips 2022](https://nips.cc/Conferences/2022), Online, Dec 09, 2022  
+ [[recording](https://nips.cc/virtual/2022/55795)]
+
+
 **Crypko: A New Workflow for Anime Character Creation**  
 [12th CODH Seminar (Online)
 AI for Culture: From Japanese Art to Anime](http://codh.rois.ac.jp/seminar/ai-for-culture-20200805/), [NII ROIS-DS](http://codh.rois.ac.jp/), Aug 05, 2020    
@@ -54,11 +59,15 @@ AI for Culture: From Japanese Art to Anime](http://codh.rois.ac.jp/seminar/ai-fo
 
 
 ## Timeline
-**[Sizigi Studios](https://sizigistudios.com/)**, ML Advisor  
-2022.4 - present
+**[Spellbrush](https://sizigistudios.com/)**, ML Researcher   
+2022.4 - present   
+Leading Japan office, developing niji・journey.
 
+**[Midjourney](https://midjourney.com/)**, ML Researcher   
+2022.7 - present   
+Participating in the development of Midjourney v4/v5 models, working on foundational model researches.
 
-**[Preferred Networks](https://www.preferred-networks.jp/en)**, Research Engineer  
+**[Preferred Networks](https://www.preferred-networks.jp/en)**, Researcher   
 2018.11 - 2022.4   
 Deep Learning R&D in the area of Japanese anime.
 

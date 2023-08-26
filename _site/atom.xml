@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Yanghua Jin 金陽華</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <id>http://localhost:4000</id>
- <updated>2022-07-12T03:45:47+09:00</updated>
+ <link href="http://aixile.github.io/atom.xml" rel="self"/>
+ <id>http://aixile.github.io</id>
+ <updated>2023-08-26T06:13:03+00:00</updated>
  <author>
    <name>Yanghua Jin</name>
    <uri>http://aixile.github.io</uri>
