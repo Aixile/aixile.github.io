@@ -3,13 +3,35 @@ layout: page
 title: Yanghua Jin
 description: Personal Profile.
 ---
-I'm a researcher at [Spellbrush](https://sizigistudios.com/), building [niji・journey](https://nijijourney.com/en/).
-I have been engaged in researching the power of AI technologies in the area of Japanese Anime/Game for over 6 years.
+I'm the Japan lead at [Spellbrush](https://spellbrush.com/). 
+I'm also a researcher on the niji/midjourney research team, focusing on training large-scale foundational models
+I have been engaged in researching the power of AI technologies in the area of Japanese Anime/Game for over 7 years.
 My long-term goal is to revolutionize the Japanese Anime/Game industry.
-Meanwhile, as an entrepreneur, I founded [Crypko.AI](http://crypko.ai/) in 2017, which was acquired by Preferred Networks in late 2018.
+Meanwhile, as an entrepreneur, I founded [Crypko.AI](https://crypko.ai/) in 2017, which was acquired by Preferred Networks in late 2018.
 
 *Email: yanghuajin94 [at] gmail [dot] com*
 
+
+## Timeline
+**[Spellbrush](https://spellbrush.com/)**, ML Researcher   
+2022.4 - present   
+Leading Japan office, developing niji・journey.
+
+**[Midjourney](https://midjourney.com/)**, ML Researcher   
+2022.7 - present   
+Training a lot of models, focusing on large-scale foundational models
+
+**[Preferred Networks](https://www.preferred-networks.jp/en)**, Researcher   
+2018.11 - 2022.4   
+Deep Learning R&D in the area of Japanese anime.
+
+**[Crypko.AI](https://crypko.ai/)**, Founder   
+2017.12 - 2018.10   
+Building next-generation cryptocollectible game with GAN and Ethereum.
+Director, Machine Learning Development, Backend Development. This project is acquired by Preferred Networks in late 2018.
+
+**Fudan University**, *B.S. with honors in Computer Science*, Shanghai, China    
+2013 - 2018   
 
 ## Academic Publications  
 **Surrogate Gradient Field for Latent Space Manipulation**  
@@ -56,25 +78,3 @@ AI for Culture: From Japanese Art to Anime](http://codh.rois.ac.jp/seminar/ai-fo
 [AI for Manga & Anime](https://research.mangaki.fr/2018/07/15/ai-for-manga-and-anime/), Anime Expo 2018, Los Angeles, 2018  
 [[slides](https://drive.google.com/file/d/145_X2q0dvZ5v97SeMmXLSsX-P-7mYlac/view?usp=sharing)]
 
-
-
-## Timeline
-**[Spellbrush](https://sizigistudios.com/)**, ML Researcher   
-2022.4 - present   
-Leading Japan office, developing niji・journey.
-
-**[Midjourney](https://midjourney.com/)**, ML Researcher   
-2022.7 - present   
-Participating in the development of Midjourney v4/v5 models, working on foundational model researches.
-
-**[Preferred Networks](https://www.preferred-networks.jp/en)**, Researcher   
-2018.11 - 2022.4   
-Deep Learning R&D in the area of Japanese anime.
-
-**[Crypko.AI](http://crypko.ai/)**, Founder   
-2017.12 - 2018.10   
-Building next-generation cryptocollectible game with GAN and Ethereum.
-Director, Machine Learning Development, Backend Development. This project is acquired by Preferred Networks in late 2018.
-
-**Fudan University**, *B.S. with honors in Computer Science*, Shanghai, China    
-2013 - 2018   
