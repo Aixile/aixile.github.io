@@ -3,16 +3,24 @@ layout: page
 title: Yanghua Jin
 description: Personal Profile.
 ---
-I'm the Japan lead at [Spellbrush](https://spellbrush.com/). 
-I'm also a researcher on the niji/midjourney research team, focusing on training large-scale foundational models
+I build AGI (Anime Girl Interaction) at [Spellbrush](https://spellbrush.com/) and lead their Japan efforts.
+
+I was the lead contributor of Midjourney Video and MJ v6/v6.1, also a core contributor of MJ v4/v5 and all niji journey models.
+
+I'm interested in reshaping the Japanese Anime industry.
+
+Previously, I founded [Crypko.AI](https://crypko.ai/) during undergrad in 2017.
+
+
+<!-- I'm also a researcher on the niji/midjourney research team, focusing on training large-scale foundational models
 I have been engaged in researching the power of AI technologies in the area of Japanese Anime/Game for over 7 years.
 My long-term goal is to revolutionize the Japanese Anime/Game industry.
-Meanwhile, as an entrepreneur, I founded [Crypko.AI](https://crypko.ai/) in 2017, which was acquired by Preferred Networks in late 2018.
+Meanwhile, as an entrepreneur, I founded [Crypko.AI](https://crypko.ai/) in 2017, which was acquired by Preferred Networks in late 2018. -->
 
 *Email: yanghuajin94 [at] gmail [dot] com*
 
 
-## Timeline
+<!-- ## Timeline
 **[Spellbrush](https://spellbrush.com/)**, ML Researcher   
 2022.4 - present   
 Leading Japan office, developing niji・journey.
@@ -31,9 +39,9 @@ Building next-generation cryptocollectible game with GAN and Ethereum.
 Director, Machine Learning Development, Backend Development. This project is acquired by Preferred Networks in late 2018.
 
 **Fudan University**, *B.S. with honors in Computer Science*, Shanghai, China    
-2013 - 2018   
+2013 - 2018    -->
 
-## Academic Publications  
+<!-- ## Academic Publications  
 **Surrogate Gradient Field for Latent Space Manipulation**  
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2021  
 Minjun Li\*, **Yanghua Jin\***, Huachun Zhu (* Equal Contribution)    
@@ -54,10 +62,10 @@ Naofumi Akimoto, Huachun Zhu, **Yanghua Jin**, Yoshimitsu Aoki
 Advances in Neural Information Processing Systems (**NIPS**) 2017 Workshop on Machine Learning for Creativity and Design (**spotlight**) 
 **Yanghua Jin**, Jiakai Zhang, Minjun Li, Yingtao Tian, Huachun Zhu   
 [[paper](https://arxiv.org/abs/1708.05509)][[web site](http://make.girls.moe/)]
+ -->
 
-
-## Talks
-**AI for Anime in the Diffusion Era**   
+<!-- ###  My old talks on Anime AI
+AI for Anime in the Diffusion Era  
 [Workshop on Machine Learning for Creativity and Design](http://www.ms.k.u-tokyo.ac.jp/TDLW2018/), [Neurips 2022](https://nips.cc/Conferences/2022), Online, Dec 09, 2022  
  [[recording](https://nips.cc/virtual/2022/55795)]
 
@@ -77,4 +85,4 @@ AI for Culture: From Japanese Art to Anime](http://codh.rois.ac.jp/seminar/ai-fo
 **Create Anime Characters using AI**  
 [AI for Manga & Anime](https://research.mangaki.fr/2018/07/15/ai-for-manga-and-anime/), Anime Expo 2018, Los Angeles, 2018  
 [[slides](https://drive.google.com/file/d/145_X2q0dvZ5v97SeMmXLSsX-P-7mYlac/view?usp=sharing)]
-
+ -->
